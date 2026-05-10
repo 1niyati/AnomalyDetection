@@ -1,6 +1,8 @@
 
 
 **Anomaly Detection & Digital Forensics**
+
+
 📌 **About This Project**
 The Digital Investigation and E-Discovery project is an academic cybersecurity assessment demonstrating a practical anomaly-based intrusion detection system using machine learning, showcasing SSH authentication log analysis, behavioural feature engineering, and risk classification procedures within a controlled analytical environment using Python and scikit-learn as the core development stack targeting real Linux system login data.
 
